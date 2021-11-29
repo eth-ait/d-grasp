@@ -1,29 +1,32 @@
-title: "CoSE: Compositional Stroke Embeddings"
-logo: "img/logo_cat.png"
-google_analytics: "G-0L1TQZHNP6"
+title: "D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions"
+#logo: "img/logo_cat.png"
+google_analytics: "G-72PW1FZDE4"
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-repository: eth-ait/cose
+repository: eth-ait/d-grasp
 github:
   is_project_page: true
   show_footer: false
 
 author_list:
+  - author: "Sammy Christen"
+    affiliation: "ETH Zurich"
+  - author: "Muhammed Kocabas"
+    affiliation: "ETH Zurich"
   - author: "Emre Aksan"
     affiliation: "ETH Zurich"
-  - author: "Thomas Deselaers"
-    affiliation: "Apple Switzerland"
-  - author: "Andrea Tagliasacchi"
-    affiliation: "Google Research"
+  - author: "Jemin Hwangbo"
+    affiliation: "KAIST"
+  - author: "Jie Song"
+    affiliation: "ETH Zurich"
   - author: "Otmar Hilliges"
     affiliation: "ETH Zurich"
 
-arxiv_url: "https://arxiv.org/abs/2006.09930"
 
-teaser_imgs:
-  - img: "img/web_teaser_flowchart.png"
-  - img: "img/web_teaser_cat.png"
-  - img: "img/web_teaser_text.png"
+#teaser_imgs:
+#  - img: "img/web_teaser_flowchart.png"
+#  - img: "img/web_teaser_cat.png"
+#  - img: "img/web_teaser_text.png"
 
 show_downloads: false
 theme: jekyll-theme-cayman
